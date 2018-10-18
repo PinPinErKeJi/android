@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">adroud</string>
+    <string name="action_settings">Settings</string>
+    <string name="tiao">点击跳转</string>
+    <string name="tiao2">点击跳转传值</string>
+    <string name="Common_key">keyinfo</string>
+    <string name="eidit">武松大虎</string>
+</resources>
