@@ -5,4 +5,31 @@
     <string name="tiao2">点击跳转传值</string>
     <string name="Common_key">keyinfo</string>
     <string name="eidit">武松大虎</string>
+    <string name="return1">返回值</string>
+    <string name="return2">点我回调值</string>
+    <string name="return3">我爱返回</string>
+    <string name="result_key">key</string>
+    <string name="returname">我是:</string>
+    <string name="phone">打电话</string>
+
+    <string name="send">发送</string>
+    <string name="brodcast">send.brodcast</string>
+    <string name="test">爱你</string>
+    <string name="intent_name">intentKey</string>
+
+
+    <string name="start">启动</string>
+    <string name="stop">停止</string>
+
+    <string name="save">保存</string>
+    <string name="read">读取</string>
+
+    <string name="Name">张三</string>
+    <string name="name">姓名:</string>
+    <string name="age">年龄:</string>
+
+    <string name="down">下载</string>
+    <string name="preUpdate">进度更新</string>
+
+    <string name="downsuccess">下载成功</string>
 </resources>
