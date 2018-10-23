@@ -1,5 +1,6 @@
 package ymt.com.adroud;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
@@ -13,9 +14,11 @@ public class serviceActivity extends AppCompatActivity {
     }
 
     public void start(View view){
-
+        Intent intent=new Intent(serviceActivity.this,MyService.class);
+        startService(intent);
     }
     public void stop(View view){
-
+        Intent intent=new Intent(serviceActivity.this,MyService.class);
+        stopService(intent);
     }
 }
